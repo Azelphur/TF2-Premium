@@ -1,6 +1,4 @@
 #include <clientprefs>
-#undef REQUIRE_PLUGIN
-#include <premium>
 
 new Handle:g_hVoteMapCookie;
 new g_iMapStartTime;
