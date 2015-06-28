@@ -2,8 +2,6 @@
 
 #include <sourcemod>
 #include <clientprefs>
-#undef REQUIRE_PLUGIN
-#include <premium>
 
 public Plugin:myinfo = 
 {
