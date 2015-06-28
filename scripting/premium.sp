@@ -1,7 +1,6 @@
 #pragma semicolon 1
 #include <clientprefs>
 #include <sourcemod>
-#include <premium>
 
 #define PL_VERSION "1.0"
 
